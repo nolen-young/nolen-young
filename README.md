@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nolen.
+- 👨🏼‍💻 I am currently working as a Software Development Engineer at Amazon
+- 🙃 This account is mostly for silly personal projects and learnings
+- 📫 You can reach me at nolen.you@gmail.com
